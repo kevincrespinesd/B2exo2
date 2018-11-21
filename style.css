@@ -27,7 +27,7 @@
 
 #map {
   width: 400px;
-  height: 100vh;
+  height: 180vh;
   position: sticky !important;
   top: 0 !important;
 }
